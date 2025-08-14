@@ -1,4 +1,4 @@
-# Hackathon Mission 1: The Empathetic Code Reviewer
+# The Empathetic Code Reviewer
 
 - This project is a solution for the "Empathetic Code Reviewer" mission.  
 - It uses Generative AI to transform blunt, critical code review feedback into constructive, educational, and encouraging guidance.  
@@ -119,5 +119,6 @@ Great job on this function! The logic correctly identifies the users you're look
 </details>
 
 ### To Use Custom Input
+
 
 Simply modify the `code_snippet` and `review_comments` fields in the `input.json` file and re-run the script.
